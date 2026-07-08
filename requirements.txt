@@ -1,0 +1,30 @@
+# ============================================================
+# requirements.txt
+# AeroControl – AI Powered Touchless Gesture Control System
+# ============================================================
+#
+# Install all dependencies with:
+#   pip install -r requirements.txt
+#
+# Python 3.9 – 3.11 recommended (MediaPipe wheel availability)
+# ============================================================
+
+# Core computer-vision & ML
+opencv-python==4.9.0.80
+mediapipe==0.10.11
+
+# OS automation (mouse, keyboard, screenshot)
+pyautogui==0.9.54
+
+# Image processing (used by pyautogui for screenshots)
+Pillow==10.3.0
+
+# NumPy (pulled in by OpenCV/MediaPipe; pin for stability)
+numpy>=1.24,<2.0
+
+# ── Platform-specific (Windows only) ──────────────────────
+# Uncomment the two lines below if you are on Windows and
+# want gesture-based volume control:
+#
+# pycaw==20230407
+# comtypes==1.3.1
