@@ -44,6 +44,28 @@ AeroControl uses Computer Vision and Artificial Intelligence to recognize hand g
 
 ### Dashboard
 
+![Dashboard](images/Dashboard.png)
+
+---
+
+### Gesture Guide
+
+![Gesture Guide](images/Gesture%20Guide.png)
+
+---
+
+### Hand Landmark Detection
+
+![Hand Landmarks](images/Hand%20Landmarks.png)
+
+---
+
+### System Architecture
+
+![Architecture Diagram](images/Architecture%20Diagram.png)
+
+### Dashboard
+
 (Add your dashboard image here after uploading it to the images folder.)
 
 ### Gesture Reference
