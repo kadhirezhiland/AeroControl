@@ -8,12 +8,12 @@ An AI-powered touchless gesture control system that enables users to control com
 
 AeroControl uses Computer Vision and Artificial Intelligence to recognize hand gestures and perform system operations such as:
 
-- 🖱️ Virtual Mouse
-- 👆 Left Click
-- 👉 Right Click
-- ↕️ Scroll
-- 🔊 Volume Control
-- 📸 Screenshot Capture
+-  Virtual Mouse
+-  Left Click
+-  Right Click
+-  Scroll
+-  Volume Control
+-  Screenshot Capture
 
 ---
 
